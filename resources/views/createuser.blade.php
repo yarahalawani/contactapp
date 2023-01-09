@@ -57,7 +57,7 @@
                   </form>
 </div>
                   <br/>
-                  <a class="btn btn-info" href="{{route('showusers')}}">See table</a>
+                  <a class="btn btn-info" href="{{route('showusers')}}">Show table</a>
                 </div>
             </div>        
         </div>

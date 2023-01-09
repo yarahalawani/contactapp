@@ -50,7 +50,7 @@ tr:hover {background-color: #D6EEEE;}
         @endforeach
         </tbody> 
 </table>
-<a class="btn btn-info" href="{{route('createUser')}}">Add User</a>
+<a class="btn btn-info" href="{{route('createUser')}}">Add new User</a>
 </div>
 </body>
 </html>
